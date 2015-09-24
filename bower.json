@@ -1,18 +1,19 @@
 {
   "name": "wid-card-weight-behavior",
-  "version": "1.0.4",
+  "version": "0.0.0",
   "authors": [
-    "Anonymous <anonymous@example.com>"
+    "Thomas Hourlier <hourliert@gmail.com>"
   ],
-  "description": "An element providing a solution to no problem in particular.",
+  "description": "A behavior to allow element to be used with the wid-cards-grid element",
   "keywords": [
     "web-component",
+    "web-components",
     "polymer",
-    "seed"
+    "behavior"
   ],
   "main": "wid-card-weight-behavior.html",
-  "license": "http://polymer.github.io/LICENSE.txt",
-  "homepage": "https://github.com/<USERNAME>/seed-element/",
+  "license": "MIT",
+  "homepage": "https://github.com/hourliert/wid-card-weight-behavior/",
   "ignore": [
     "/.*",
     "/test/"

@@ -8,9 +8,14 @@ Polymer.WidCardWeightBehavior = {
 
   properties: {
     /**
-     * Cached copy of shared elements.
+     * The card importance
+     * @type {Number}
      */
-    importance: {
+    horizontalWeight: {
+      type: Number,
+      value: 1
+    },
+    verticalWeight: {
       type: Number,
       value: 1
     }
